@@ -2,7 +2,7 @@
 
 This project is a discord bot that adds a stock quiz command to your discord server.
 
-## How to build
+## How to build :bricks:
 
 ```shell
 # go build cmd/main.go
