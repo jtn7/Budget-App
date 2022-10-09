@@ -8,6 +8,6 @@ This project is a discord bot that adds a stock quiz command to your discord ser
 # go build cmd/main.go
 ```
 
-## How to run
+## How to run :rocket:
 
 Execute the bot with your application token using the `TOKEN` environment variable.
